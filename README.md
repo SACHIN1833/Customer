@@ -43,5 +43,3 @@ This project focuses on predicting whether a customer will purchase a product af
    - Visualize decision boundaries  
 
 ---
-   git clone https://github.com/your-username/ad-sale-prediction.git
-   cd ad-sale-prediction
